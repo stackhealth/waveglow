@@ -1,7 +1,4 @@
-![WaveGlow](waveglow_logo.png "WaveGLow")
-
 ## WaveGlow: a Flow-based Generative Network for Speech Synthesis
-
 ### Ryan Prenger, Rafael Valle, and Bryan Catanzaro
 
 In our recent [paper], we propose WaveGlow: a flow-based network capable of
